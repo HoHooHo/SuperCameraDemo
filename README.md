@@ -100,6 +100,8 @@ ASuperCameraDemoPlayerController::ASuperCameraDemoPlayerController()
 
 You can add/remove a CameraMotion use function AddCameraMotion/RemoveCameraMotion
 
+![image](https://github.com/HoHooHo/SuperCameraDemo/blob/main/img/TestCameraMotion.png)
+
 
 ## 6、Debug info
 
